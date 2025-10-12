@@ -39,11 +39,9 @@
 
 ---
 
-### 🏆 Badges & Achievements
-
-- 🔥 [Animated GitHub Badges](https://github.com/acervenky/animated-github-badges)  
-- 🛡️ [Profile Badge Collection](https://github.com/Thinkright20/Profile-Badges)  
-- 🧠 [Cool GIFs for GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)
+<p align="center">
+  ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/1d71e8bd-8703-464e-aae6-f83b51c4117d)
+</p>
 
 ---
 
