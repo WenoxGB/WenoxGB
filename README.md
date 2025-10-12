@@ -18,7 +18,7 @@
 - 📚 Always learning & building new things
 
 <p align="center">
-  <img alt="ded wenox" src="<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+  <img alt="ded wenox" src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjAyOTE5MTAsIm5iZiI6MTc2MDI5MTYxMCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDEyVDE3NTMzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNhOGFjMDQ4MTEwNjhmNjZlMDNlYjdmMzQzMmNjYTZlZDMzNWI3MjcyNmZmNDdkMDczMGZkMjZhMDVhMjY4NmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dbZRvx4-cC5kq9eqA91ZDfVL4OYHHrBCf9bjHdjXFt4" />
 </p>
 
 ---
