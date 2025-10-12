@@ -1,16 +1,50 @@
-## Hi there 👋
+<!-- Profile README for Wenox -->
 
-<!--
-**WenoxGB/WenoxGB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Wenox</h1>
+<h3 align="center">PocketMine-MP Plugin Developer | PHP Enthusiast | Creative Coder</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bisu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Wenox" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+
+- 🔭 I’m currently working on **modular PocketMine-MP plugins** with cinematic effects, lore-driven feedback, and async performance
+- 🌱 I’m exploring **NBT serialization**, **entity rotation**, and **immersive sound systems**
+- 💬 Ask me about **PHP**, **PMMP API 5**, **async scheduling**, and **Pocketmine APIS**
+- ⚡ Fun fact: I love blending backend precision with frontend expressiveness — Multi Language feedback, Custom Ui`s, and cinematic launchpads are my jam!
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/bisu-dev/assets/main/pmmp-logo.png" alt="PMMP" width="40" height="40"/>
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bisu-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bisu-dev&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 Badges & Achievements
+
+- 🔥 [Animated GitHub Badges](https://github.com/acervenky/animated-github-badges)  
+- 🛡️ [Profile Badge Collection](https://github.com/Thinkright20/Profile-Badges)  
+- 🧠 [Cool GIFs for GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)
+
+---
+
+### 📫 Connect with Me
+
+- 💬 Discord: `wenox0379`
+- 🌐 Website: Coming soon…
