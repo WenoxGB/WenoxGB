@@ -1,21 +1,13 @@
 <!-- Profile README for Wenox -->
 
 <h1 align="center">Hi 👋, I'm Wenox</h1>
-<h3 align="center">PocketMine-MP Plugin Developer | PHP Enthusiast | Creative Coder</h3>
+<h3 align="center"> <img width="40" height="40" alt="pmmp" src="https://github.com/user-attachments/assets/39b1ceb5-a456-496c-997e-3867895f876e" /> PocketMine-MP Plugin Developer | PHP Enthusiast | Creative Coder</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bisu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Wenox" />
 </p>
 
 ---
-
-### 🧠 About Me
-
-- 🧠 Self-taught developer focused on PHP and Minecraft scripting
-- 🧩 Works with PocketMine-MP, Bedrock APIs, and multi-server setups
-- 🌐 Creates plugins, UIs, SQL integrations, custom systems and more
-- 🎮 Founder & Lead Dev at FrostNetwork™️
-- 📚 Always learning & building new things
 
 <p align="center">
   <img alt="ded wenox" src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjAyOTE5MTAsIm5iZiI6MTc2MDI5MTYxMCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDEyVDE3NTMzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNhOGFjMDQ4MTEwNjhmNjZlMDNlYjdmMzQzMmNjYTZlZDMzNWI3MjcyNmZmNDdkMDczMGZkMjZhMDVhMjY4NmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dbZRvx4-cC5kq9eqA91ZDfVL4OYHHrBCf9bjHdjXFt4" />
@@ -29,7 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img width="40" height="40" alt="pmmp" src="https://github.com/user-attachments/assets/39b1ceb5-a456-496c-997e-3867895f876e" />
 
 </p>
 
