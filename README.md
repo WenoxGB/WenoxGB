@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Wenox</h1>
 <p align="center">
-  <img width="36" alt="pmmp" src="https://github.com/user-attachments/assets/39b1ceb5-a456-496c-997e-3867895f876e" />
   <strong>PocketMine-MP Plugin Developer | PHP Enthusiast | Creative Coder</strong>
 </p>
 
@@ -20,6 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img width="40" alt="pmmp" src="https://github.com/user-attachments/assets/39b1ceb5-a456-496c-997e-3867895f876e" />
 
 </p>
 
