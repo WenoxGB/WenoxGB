@@ -37,4 +37,4 @@
 ### 📫 Connect with Me
 
 - 💬 Discord: `wenox0379`
-- 🌐 Website: Coming soon…
+- 🌐 Website: https://wenoxgb.github.io/Wenox/
