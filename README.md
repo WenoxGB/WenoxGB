@@ -2,12 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Wenox</h1>
 <p align="center">
-  <img width="40" alt="pmmp" src="https://github.com/user-attachments/assets/39b1ceb5-a456-496c-997e-3867895f876e" />
+  <img width="36" alt="pmmp" src="https://github.com/user-attachments/assets/39b1ceb5-a456-496c-997e-3867895f876e" />
+  <strong>PocketMine-MP Plugin Developer | PHP Enthusiast | Creative Coder</strong>
 </p>
-
-<h3 align="center">
-  PocketMine-MP Plugin Developer | PHP Enthusiast | Creative Coder
-</h3>
 
 ---
 
