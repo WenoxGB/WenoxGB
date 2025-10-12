@@ -2,13 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Wenox</h1>
 <p align="center">
-  <strong>PocketMine-MP Plugin Developer | PHP Enthusiast | Creative Coder</strong>
-</p>
-
----
-
-<p align="center">
-  <img alt="ded wenox" src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjAyOTE5MTAsIm5iZiI6MTc2MDI5MTYxMCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDEyVDE3NTMzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNhOGFjMDQ4MTEwNjhmNjZlMDNlYjdmMzQzMmNjYTZlZDMzNWI3MjcyNmZmNDdkMDczMGZkMjZhMDVhMjY4NmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dbZRvx4-cC5kq9eqA91ZDfVL4OYHHrBCf9bjHdjXFt4" />
+  <b>PocketMine-MP Plugin Developer | PHP Enthusiast | Creative Coder</b>
 </p>
 
 ---
@@ -16,11 +10,17 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img width="40" alt="pmmp" src="https://github.com/user-attachments/assets/39b1ceb5-a456-496c-997e-3867895f876e" />
+  <a href="https://www.php.net/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> </a>
+  <a href="https://www.java.com/en/download/help/java_webstart.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
+  <a href="https://pmmp.io/" target="_blank"> <img width="40" alt="pmmp" src="https://github.com/user-attachments/assets/39b1ceb5-a456-496c-997e-3867895f876e" /> </a>
 
+</p>
+
+---
+
+<p align="center">
+  <img alt="ded wenox" src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjAyOTE5MTAsIm5iZiI6MTc2MDI5MTYxMCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDEyVDE3NTMzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNhOGFjMDQ4MTEwNjhmNjZlMDNlYjdmMzQzMmNjYTZlZDMzNWI3MjcyNmZmNDdkMDczMGZkMjZhMDVhMjY4NmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dbZRvx4-cC5kq9eqA91ZDfVL4OYHHrBCf9bjHdjXFt4" />
 </p>
 
 ---
