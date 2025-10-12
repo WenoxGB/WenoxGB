@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Wenox</h1>
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=WenoxGB&label=Profile%20Views&color=purple&style=flat" alt="Profile views">
+ <img src="https://komarev.com/ghpvc/?username=WenoxGB&label=Profile%20Views&color=purple&style=for-the-badge" alt="Profile views">
 </p>
 
 ---
