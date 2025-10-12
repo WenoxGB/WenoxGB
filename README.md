@@ -1,7 +1,7 @@
 <!-- Profile README for Wenox -->
 
 <h1 align="center">Hi 👋, I'm Wenox</h1>
-<h3 align="center"> <img width="28" alt="pmmp" src="https://github.com/user-attachments/assets/39b1ceb5-a456-496c-997e-3867895f876e" style="vertical-align: middle;" /> PocketMine-MP Plugin Developer | PHP Enthusiast | Creative Coder</h3>
+<h3 align="center"> <img width="28" alt="pmmp" src="https://github.com/user-attachments/assets/39b1ceb5-a456-496c-997e-3867895f876e" style="vertical-align: middle; margin-bottom: -4px;" /> PocketMine-MP Plugin Developer r</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bisu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Wenox" />
