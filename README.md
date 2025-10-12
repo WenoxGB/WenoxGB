@@ -11,10 +11,15 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **modular PocketMine-MP plugins** with cinematic effects, lore-driven feedback, and async performance
-- 🌱 I’m exploring **NBT serialization**, **entity rotation**, and **immersive sound systems**
-- 💬 Ask me about **PHP**, **PMMP API 5**, **async scheduling**, and **Pocketmine APIS**
-- ⚡ Fun fact: I love blending backend precision with frontend expressiveness — Multi Language feedback, Custom Ui`s, and cinematic launchpads are my jam!
+- 🧠 Self-taught developer focused on PHP and Minecraft scripting
+- 🧩 Works with PocketMine-MP, Bedrock APIs, and multi-server setups
+- 🌐 Creates plugins, UIs, SQL integrations, custom systems and more
+- 🎮 Founder & Lead Dev at FrostNetwork™️
+- 📚 Always learning & building new things
+
+<p align="center">
+  <img alt="ded wenox" src="<img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjAyOTE5MTAsIm5iZiI6MTc2MDI5MTYxMCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDEyVDE3NTMzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNhOGFjMDQ4MTEwNjhmNjZlMDNlYjdmMzQzMmNjYTZlZDMzNWI3MjcyNmZmNDdkMDczMGZkMjZhMDVhMjY4NmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dbZRvx4-cC5kq9eqA91ZDfVL4OYHHrBCf9bjHdjXFt4" />
+</p>
 
 ---
 
@@ -40,7 +45,7 @@
 ---
 
 <p align="center">
-  <img alt="22548559" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+  <img alt="you noob" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </p>
 
 ---
