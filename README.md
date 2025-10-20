@@ -36,4 +36,5 @@
 ### 📫 Connect with Me
 
 - 💬 Discord: `wenox0379`
-- 🌐 Website: [PixelForgeStudio](https://pixelforgestudios.pages.dev/)
+- 🌐 Website: [PixelForgeStudio](https://pixelforgestudios.pages.dev/), [Wenox](https://www.wenox.run.place)
+- 
