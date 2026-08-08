@@ -7,10 +7,8 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wenox&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=wenox&show_icons=true&theme=tokyonight](https://nnajichimuanya.hashnode.dev/java-for-beginners)" alt="GitHub Stats" />
 </p>
 
 ---
@@ -36,5 +34,5 @@
 ### 📫 Connect with Me
 
 - 💬 Discord: `wenox0379`
-- 🌐 Website: [PixelForgeStudio](https://pixelforgestudios.pages.dev/), [Wenox](https://www.wenox.run.place)
-- 
+- 🌐 Website: [Wenox](https://portfolio.gabbiswajit.workers.dev)
+- 📩 Email: `gabbiswajit@gmail.com`
