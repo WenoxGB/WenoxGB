@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=wenox&show_icons=true&theme=tokyonight](https://nnajichimuanya.hashnode.dev/java-for-beginners)" alt="GitHub Stats" />
+  <img src="https://nnajichimuanya.hashnode.dev/java-for-beginners" alt="GitHub Stats" />
 </p>
 
 ---
